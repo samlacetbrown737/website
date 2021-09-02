@@ -20,6 +20,16 @@ nav {
   z-index: 100;
 }
 
+nav img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-right: auto;
+  object-fit: cover;
+}
+
 @media (max-width: 800px) {
   nav {
     justify-content: center;
@@ -256,6 +266,10 @@ iframe {
   justify-content: center;
   align-items: center;
   margin-bottom: 50px;
+}
+
+#contact h2 {
+  font-size: 6vmin;
 }
 
 .contact-details {
