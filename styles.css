@@ -185,6 +185,8 @@ iframe {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 3.5vmin;
+  padding-bottom: 5vmin;
 }
 
 #languages p {
