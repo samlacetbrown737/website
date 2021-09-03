@@ -217,7 +217,7 @@ iframe {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   #languages p {
     font-size: 2vmin;
     width: 80%;
