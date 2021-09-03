@@ -217,6 +217,12 @@ iframe {
   }
 }
 
+@media (max-width: 400px) {
+  #languages p {
+    font-size: 2vmin;
+  }
+}
+
 #languages a {
   color: #296EB4;
   text-decoration: none;
