@@ -223,6 +223,9 @@ iframe {
     width: 80%;
     padding-bottom: 10vmin;
   }
+  #projects {
+    height: 140vmin;
+  }
 }
 
 #languages a {
