@@ -221,6 +221,7 @@ iframe {
   #languages p {
     font-size: 2vmin;
     width: 80%;
+    padding-bottom: 10vmin;
   }
 }
 
