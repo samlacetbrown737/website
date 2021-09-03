@@ -251,6 +251,7 @@ iframe {
   height: 60vmin;
   padding-top: 3vmin;
   padding-bottom: 3vmin;
+  text-align: center;
 }
 
 #classes ul {
